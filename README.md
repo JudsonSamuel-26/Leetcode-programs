@@ -1,13 +1,20 @@
-# Leetcode Programs
+# 🚀 LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0021-merge-two-sorted-lists) |
-<!---LeetCode Topics End-->
+Hi! I'm **Judson Samuel**.
+
+This repository contains my accepted LeetCode solutions in **Java**.
+
+### 👨‍💻 Tech Stack
+- Java
+- Data Structures & Algorithms
+
+### 🎯 Goal
+- Solve 200+ LeetCode problems
+- Improve problem-solving skills
+- Prepare for coding interviews
+
+---
+
+## 📈 Progress
+
+*(Automatically updated by LeetHub v2 below)*
