@@ -18,3 +18,15 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## 📈 Progress
 
 *(Automatically updated by LeetHub v2 below)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3345-smallest-divisible-digit-product-i) |
+<!---LeetCode Topics End-->
