@@ -53,4 +53,12 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
