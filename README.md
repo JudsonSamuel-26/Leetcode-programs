@@ -37,6 +37,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | ------- |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
