@@ -35,6 +35,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
