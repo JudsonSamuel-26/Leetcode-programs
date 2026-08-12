@@ -36,6 +36,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -55,14 +56,24 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
