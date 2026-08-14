@@ -27,6 +27,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0009-palindrome-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -101,8 +102,21 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
