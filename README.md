@@ -80,6 +80,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | ------- |
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -122,4 +123,8 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
