@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
+| [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -81,6 +82,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -127,4 +129,8 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
