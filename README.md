@@ -41,6 +41,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
