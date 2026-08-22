@@ -38,6 +38,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 ## String
@@ -135,6 +137,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
