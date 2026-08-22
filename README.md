@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
@@ -143,4 +145,8 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
