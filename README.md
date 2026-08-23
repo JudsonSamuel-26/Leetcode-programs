@@ -47,6 +47,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0169-majority-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -144,6 +145,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
