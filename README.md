@@ -38,6 +38,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -101,6 +103,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0169-majority-element) |
 ## Counting
