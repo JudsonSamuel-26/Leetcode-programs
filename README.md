@@ -51,6 +51,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [1929-concatenation-of-array](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
