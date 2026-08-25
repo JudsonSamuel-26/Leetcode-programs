@@ -24,6 +24,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0268-missing-number) |
