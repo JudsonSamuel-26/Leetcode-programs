@@ -95,6 +95,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0242-valid-anagram](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
@@ -124,6 +125,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1143-longest-common-subsequence) |
 ## Union-Find
 |  |
 | ------- |
@@ -158,4 +160,8 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
