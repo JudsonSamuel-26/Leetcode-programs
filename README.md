@@ -31,6 +31,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [1025-divisor-game](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
