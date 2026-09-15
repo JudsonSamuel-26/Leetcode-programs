@@ -42,6 +42,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 | [0001-two-sum](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ This repository contains my accepted LeetCode solutions in **Java**.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/JudsonSamuel-26/Leetcode-programs/tree/master/0344-reverse-string) |
 ## String
